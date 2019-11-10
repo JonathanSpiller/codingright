@@ -1,0 +1,17 @@
+header h1 {
+	text-align: center; 
+	font-size: 4em;
+	text-decoration: underline;
+}
+
+section {
+	margin-left: 2em;
+}
+
+#rules {
+	color: red;
+}
+
+h1 > li {
+	font-size: 2em;
+}
